@@ -7648,14 +7648,14 @@ metro-cache@0.59.0:
     mkdirp "^0.5.1"
     rimraf "^2.5.4"
 
-metro-config@^0.59.1:
-  version "0.59.1"
-  resolved "http://localhost:4873/metro-config/-/metro-config-0.59.1.tgz#f011da8111e9eb3beedad685bf89bbbb28b47cde"
-  integrity sha512-a5ErvKs7q1FU7VGEkqWQIRcy9wTqYGsvzO77n09ap2f4qcr3bEBqxdXwjRFH1903PpQr1kmrLVRzf5V51NcfGg==
+metro-config@^0.59.3:
+  version "0.59.3"
+  resolved "http://localhost:4873/metro-config/-/metro-config-0.59.3.tgz#d3ceea63cd35dab92b72ff88618aaba0740dc9aa"
+  integrity sha512-LYPZMpWN3YYxTYs732VL+l/Mf6U72ngB6wT+hm+lXy53/h0LadjJUpG3ph83yrgFsKsPlyTWy11bXwQ/+mpLPw==
   dependencies:
     cosmiconfig "^5.0.5"
     jest-validate "^24.9.0"
-    metro "^0.59.1"
+    metro "^0.59.3"
     metro-cache "0.59.0"
     metro-core "0.59.0"
 
@@ -7777,10 +7777,10 @@ metro-symbolicate@0.59.0:
     through2 "^2.0.1"
     vlq "^1.0.0"
 
-metro@^0.59.1:
-  version "0.59.1"
-  resolved "http://localhost:4873/metro/-/metro-0.59.1.tgz#34172ee512621ee37ffc648840b11c58d8dc984b"
-  integrity sha512-uF55v81co0/hWN+O4/X7LwB5eenStLCCVz7xmYcoOC7B1Wtu7Ibcwzxoxa3/ZEEqXfSYePfilrUG9x6vnGe/aQ==
+metro@^0.59.3:
+  version "0.59.3"
+  resolved "http://localhost:4873/metro/-/metro-0.59.3.tgz#657a65e6b5a55794b91880d14fb8323fe235441a"
+  integrity sha512-FjdIZLPkMgFKwDO9AAuPAaN528mNfXvMyQ6NfiwjffCXTuqyosqlYj/gNem1Lw9jbl8KKKhE0BhJypJDuA3zwQ==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/core" "^7.0.0"
@@ -7815,7 +7815,7 @@ metro@^0.59.1:
     metro-babel-register "0.59.0"
     metro-babel-transformer "0.59.0"
     metro-cache "0.59.0"
-    metro-config "^0.59.1"
+    metro-config "^0.59.3"
     metro-core "0.59.0"
     metro-inspector-proxy "0.59.0"
     metro-minify-uglify "0.59.0"
