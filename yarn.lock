@@ -8222,14 +8222,14 @@ metro-cache@0.66.0:
     mkdirp "^0.5.1"
     rimraf "^2.5.4"
 
-metro-config@0.66.1, metro-config@^0.66.1:
-  version "0.66.1"
-  resolved "http://localhost:4873/metro-config/-/metro-config-0.66.1.tgz#ded6d167f81160c63b173b8478d3cd58acec3dc5"
-  integrity sha512-+qbO7LBPTCUnrgqw61oKpoVys7H/BNwvKZXvt9u6IKHy5qUwZ9/kMYjG3ENZIg5gZKYW0WjqZjl6TFOe4hufbg==
+metro-config@0.66.2, metro-config@^0.66.2:
+  version "0.66.2"
+  resolved "http://localhost:4873/metro-config/-/metro-config-0.66.2.tgz#8dc2eae84f4d8858acf56462dc5d6e83ba4e3d52"
+  integrity sha512-CN0cRozWsd8s7oIxoKVYskd++TipjI/3ML+kKozLhxbXnSaTQsk+FiVyFL0jd4YLvq8NHjaWQhJI/wphrG5UVw==
   dependencies:
     cosmiconfig "^5.0.5"
     jest-validate "^26.5.2"
-    metro "0.66.1"
+    metro "0.66.2"
     metro-cache "0.66.0"
     metro-core "0.66.0"
     metro-runtime "0.66.0"
@@ -8377,17 +8377,17 @@ metro-transform-plugins@0.66.0:
     "@babel/traverse" "^7.0.0"
     nullthrows "^1.1.1"
 
-metro-transform-worker@0.66.1:
-  version "0.66.1"
-  resolved "http://localhost:4873/metro-transform-worker/-/metro-transform-worker-0.66.1.tgz#aa4756cffe33e8170b4499d7b182f8b7833dd7b0"
-  integrity sha512-+n85+49YsMOLKveMlDiAAbXPp9Li63JHoipxMH2ukhv4zbZF7jMZeMjEXY6VsKzD/3fBLsCV2kHSgLrQ6ladzQ==
+metro-transform-worker@0.66.2:
+  version "0.66.2"
+  resolved "http://localhost:4873/metro-transform-worker/-/metro-transform-worker-0.66.2.tgz#bcf1d76871088c68940ed486c5ebec1cfa03af4c"
+  integrity sha512-hR71AjNEoEHOdAONlSE5hkWc9qdTyqS5QpgzU4gxV9TSpcIBIbximhN+y7yIm7dGC/QocvMUC6D+hPDj2eAx8A==
   dependencies:
     "@babel/core" "^7.14.0"
     "@babel/generator" "^7.14.0"
     "@babel/parser" "^7.14.0"
     "@babel/types" "^7.0.0"
     babel-preset-fbjs "^3.4.0"
-    metro "0.66.1"
+    metro "0.66.2"
     metro-babel-transformer "0.66.0"
     metro-cache "0.66.0"
     metro-cache-key "0.66.0"
@@ -8396,10 +8396,10 @@ metro-transform-worker@0.66.1:
     metro-transform-plugins "0.66.0"
     nullthrows "^1.1.1"
 
-metro@0.66.1, metro@^0.66.1:
-  version "0.66.1"
-  resolved "http://localhost:4873/metro/-/metro-0.66.1.tgz#6b1ec09b15dbdbaf938ba173c46798494781630c"
-  integrity sha512-K7eCruRl0+bO4XvUY74265b2fXVICYD9yIXSU5srTPLu0QrXeTxLCHqJtZNj6Q40blmXF8EF3AJulA18ZqAwDA==
+metro@0.66.2, metro@^0.66.2:
+  version "0.66.2"
+  resolved "http://localhost:4873/metro/-/metro-0.66.2.tgz#be9ef15ebb15526786376fdc9a468da6d0d395bf"
+  integrity sha512-TNz401A7mVobrsLhwRIKeYSSxIxCqBx51Wt960K7TffS7rVWj2NEoOelGdK42wsDIqg5YpfM2NFNpJTO7P3fTA==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/core" "^7.14.0"
@@ -8429,7 +8429,7 @@ metro@0.66.1, metro@^0.66.1:
     metro-babel-transformer "0.66.0"
     metro-cache "0.66.0"
     metro-cache-key "0.66.0"
-    metro-config "0.66.1"
+    metro-config "0.66.2"
     metro-core "0.66.0"
     metro-hermes-compiler "0.66.0"
     metro-inspector-proxy "0.66.0"
@@ -8440,7 +8440,7 @@ metro@0.66.1, metro@^0.66.1:
     metro-source-map "0.66.0"
     metro-symbolicate "0.66.0"
     metro-transform-plugins "0.66.0"
-    metro-transform-worker "0.66.1"
+    metro-transform-worker "0.66.2"
     mime-types "^2.1.27"
     mkdirp "^0.5.1"
     node-fetch "^2.2.0"

@@ -1,6 +1,6 @@
 {
   "name": "@react-native-community/cli",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "description": "React Native CLI",
   "license": "MIT",
   "main": "build/index.js",
@@ -44,8 +44,8 @@
     "joi": "^17.2.1",
     "leven": "^3.1.0",
     "lodash": "^4.17.15",
-    "metro": "^0.66.1",
-    "metro-config": "^0.66.1",
+    "metro": "^0.66.2",
+    "metro-config": "^0.66.2",
     "metro-core": "^0.66.0",
     "metro-react-native-babel-transformer": "^0.66.0",
     "metro-resolver": "^0.66.0",
